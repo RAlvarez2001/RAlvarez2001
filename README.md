@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello 👋
+
+I'm currently working on building a website.
+Soon I plan to brush up on my python to be used for machine learning problems.
 
 <!--
 **RAlvarez2001/RAlvarez2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
